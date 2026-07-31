@@ -1,4 +1,4 @@
-package DAY_5;
+package Day_5;
 
 class Solution {
     public boolean isHappy(int n) {

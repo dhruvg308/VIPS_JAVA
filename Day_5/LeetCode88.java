@@ -1,4 +1,4 @@
-package DAY_5;
+package Day_5;
 import java.util.*;
 
 class Solution {
